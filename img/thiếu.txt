@@ -1,0 +1,5 @@
+zt.png  : ảnh lớn
+di24.jpg : ảnh lớn
+di42.jpg : ảnh lớn
+
+
